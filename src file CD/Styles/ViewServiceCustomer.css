@@ -1,0 +1,23 @@
+.customer-service-details-container {
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+  color: black;
+}
+
+.customer-heading-of-view-service-details {
+  position: relative;
+  color: black;
+  margin-top: 50px;
+}
+
+.customer-service-background {
+  background-image: url("https://img.freepik.com/premium-vector/light-background-text-template-with-light-circles-abstraction-is-blue-with-pink_586153-21.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}

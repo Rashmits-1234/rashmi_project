@@ -1,0 +1,20 @@
+.content {
+    margin-top: 75px;
+  
+  .navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar .nav-link {
+    color: #000;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #007bff;
+  }
+}
